@@ -1,0 +1,2 @@
+# Hardware Stack
+This document provides instructions for setting up the hardware workspace for communication between our code logic and AUV sensors using MAVLink messages. The workspace is designed to work with ROS Noetic and includes various packages and dependencies required for hardware integration.
