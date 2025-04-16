@@ -1,4 +1,4 @@
-# nauti-master
+# nauti-quest
 This repository contains the guide for setting up the ROS simulation and hardware workspace for our Autonomous Underwater Vehicle (AUV).
 
 ## Prerequisites
